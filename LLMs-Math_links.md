@@ -1,6 +1,6 @@
 # Anexo de Lecturas y Recursos: IA y el Quehacer Matemático
 
-Este documento reúne una selección curada de declaraciones institucionales, ensayos de opinión, guías para investigadores, artículos académicos y conferencias sobre el impacto de la Inteligencia Artificial (y los modelos de lenguaje) en la investigación, la docencia y la cultura matemática. Está pensado como material de lectura y referencia para la comunidad del Departamento de Matemáticas.
+Este documento reúne una selección curada de declaraciones institucionales, ensayos de opinión, guías para investigadores, artículos académicos y conferencias sobre el impacto de la Inteligencia Artificial (y los modelos de lenguaje) en la investigación, la docencia y la cultura matemática. Es material complementario de la plática "Cómo funcionan los LLMs y qué significan para el quehacer matemático en la era de la IA"
 
 ---
 
