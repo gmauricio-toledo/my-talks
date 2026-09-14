@@ -75,11 +75,11 @@ Este documento reúne una selección curada de declaraciones institucionales, en
 ## 4. Conferencias, Entrevistas y Controversias en Video (YouTube)
 
 * **[Daniel Litt -- Human Mathematicians in the Age of AI](https://www.youtube.com/watch?v=...)**
-  * *Canal / Entrevistador:* Alvaro Lozano-Robledo.
+  * *Canal:* Alvaro Lozano-Robledo.
   * *Resumen:* Conversación sobre el uso práctico de LLMs para búsqueda de literatura y contraejemplos, la diversidad cognitiva humana vs. el conocimiento enciclopédico de las máquinas y el enfoque en la formación de capital humano.
 
 * **[Emily Riehl -- Human Mathematicians in the Age of AI](https://www.youtube.com/watch?v=...)**
-  * *Canal / Entrevistador:* Alvaro Lozano-Robledo.
+  * *Canal:* Alvaro Lozano-Robledo.
   * *Resumen:* Discusión sobre formalización de matemáticas (Lean, Homotopy Type Theory, Infinity-Cosmoi), la verificación de teoremas y la reorientación hacia la exposición oral y la pedagogía en el posgrado.
 
 * **[Martin Hairer: Do Mathematicians Need Computers?](https://www.youtube.com/watch?v=...)**
@@ -87,7 +87,7 @@ Este documento reúne una selección curada de declaraciones institucionales, en
   * *Resumen:* Conferencia sobre la naturaleza abstracta de las matemáticas, el papel histórico de las computadoras (como en el Teorema de los Cuatro Colores) y el desarrollo de la autoformalización.
 
 * **[Navier-Stokes announcement clouded by accusations](https://www.youtube.com/watch?v=...)**
-  * *Canal / Creador:* Alvaro Lozano-Robledo.
+  * *Canal:* Alvaro Lozano-Robledo.
   * *Resumen:* Análisis del conflicto de septiembre de 2026 entre Tristan Buckmaster, Levent Alpöge y OpenAI sobre la filtración y uso no atribuido de datos de investigación para el anuncio del problema de Navier-Stokes.
 
 ---
@@ -96,8 +96,5 @@ Este documento reúne una selección curada de declaraciones institucionales, en
 
 * **LLMs.pdf**
   * *Autor:* Gerardo Mauricio Toledo Acosta (Departamento de Matemáticas, Universidad de Sonora, AI-LinkUp 2025).
-  * *Resumen:* Presentación previa ("La Ilusión de la Inteligencia") que sirvió como base para desmitificar los LLMs y analizar sus implicaciones pedagógicas y cognitivas.
+  * *Resumen:* Presentación previa ("La Ilusión de la Inteligencia") en el AI-LinkUp 2025 desmitificando como funcionan los LLMs y analizando los riesgos cognitivas y sesgos.
 
-* **Propuesta de presentación LLM-Math.txt**
-  * *Autor:* Gerardo Mauricio Toledo Acosta (Departamento de Matemáticas, UNISON).
-  * *Resumen:* Borrador en Beamer LaTeX con la estructura articulada en bloques para la plática de 45 minutos y disparadores de discusión para el conversatorio posterior.
