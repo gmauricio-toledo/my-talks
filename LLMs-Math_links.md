@@ -55,8 +55,8 @@ Este documento reúne una selección curada de declaraciones institucionales, en
   * *Resumen:* Análisis comparativo entre escenarios con *humano en el ciclo* (S1) y *superinteligencia autónoma* (S2), sugiriendo que la toma de decisiones e intuición mantendrán a los matemáticos en un rol central.
 
 * **[Mathematics in the age of AI](https://arxiv.org/abs/2608.16753v1)
- * *Autor*: Terrence Tao (Agosto, 2026)
- * *Resumen*: An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks.
+  * *Autor*: Terrence Tao (Agosto, 2026)
+  * *Resumen*: An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks.
 
 ---
 
