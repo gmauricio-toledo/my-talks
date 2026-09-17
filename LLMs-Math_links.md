@@ -114,8 +114,8 @@ Este documento reúne una selección curada de declaraciones institucionales, en
 
 ---
 
-## 5. Materiales Locales de la Presentación
+## 5. Materiales de la Presentación
 
-* **LLMs.pdf**
+* **[Presentación](https://github.com/gmauricio-toledo/my-talks/blob/main/Math_AI_2026.pdf)**
   * *Autor:* Gerardo Mauricio Toledo Acosta (Departamento de Matemáticas, Universidad de Sonora, AI-LinkUp 2025).
   * *Resumen:* Presentación previa ("La Ilusión de la Inteligencia") en el AI-LinkUp 2025 desmitificando como funcionan los LLMs y analizando los riesgos cognitivas y sesgos.
