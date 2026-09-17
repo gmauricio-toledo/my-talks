@@ -18,11 +18,15 @@ Este documento reúne una selección curada de declaraciones institucionales, en
   * *Comité:* Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training (MIT).
   * *Resumen:* Informe institucional con recomendaciones sobre la adaptación de la evaluación académica "consciente de la IA" (*AI-aware*), la preservación del proceso pedagógico activo y el valor insustituible de la educación residencial.
 
+* **[arXiv's One-Strike Rule on AI](https://cerncourier.com/arxivs-one-strike-rule-on-ai/)** (CERN Courier, 2025)
+  * *Iniciativa:* arXiv
+  * *Resumen:* Adopción de política de tolerancia cero frente al envío masivo de manuscritos generados o saturados de contenido generado por IA ("AI slop"). Refleja el impacto tangible de la saturación de repositorios académicos y la necesidad de salvaguardar la integridad del sistema de difusión científica.
+
 ---
 
 ## 2. Reflexiones Filosóficas, Cultura y Futuro de la Disciplina
 
-* **[“Deep theorems were scarce and difficult and so became an effective mechanism to identify deep thought. AI has broken this system.”](https://terrytao.wordpress.com/2026/09/13/deep-theorems-were-scarce-and-difficult-and-so-became-an-effective-mechanism-to-identify-deep-thought-ai-has-broken-this-system/)**
+* **["Deep theorems were scarce and difficult and so became an effective mechanism to identify deep thought. AI has broken this system."](https://terrytao.wordpress.com/2026/09/13/deep-theorems-were-scarce-and-difficult-and-so-became-an-effective-mechanism-to-identify-deep-thought-ai-has-broken-this-system/)**
   * *Autora:* Bryna Kra (Guest post en el blog de Terence Tao, 13 de septiembre de 2026).
   * *Resumen:* Analiza la ruptura del histórico *proxy* según el cual producir teoremas difíciles medía el pensamiento profundo. Argumenta que una demostración es una "historia y una explicación" y que la comunidad debe premiar la síntesis y la claridad expositiva.
 
@@ -50,6 +54,10 @@ Este documento reúne una selección curada de declaraciones institucionales, en
   * *Autor:* Robert Wegner (Proofs and Prompts, 10 de septiembre de 2026).
   * *Resumen:* Análisis comparativo entre escenarios con *humano en el ciclo* (S1) y *superinteligencia autónoma* (S2), sugiriendo que la toma de decisiones e intuición mantendrán a los matemáticos en un rol central.
 
+* **[Mathematics in the age of AI](https://arxiv.org/abs/2608.16753v1)
+ * *Autor*: Terrence Tao (Agosto, 2026)
+ * *Resumen*: An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks.
+
 ---
 
 ## 3. Guías Prácticas, Ética y Artículos Académicos
@@ -69,6 +77,20 @@ Este documento reúne una selección curada de declaraciones institucionales, en
 * **Shaping the Future of Mathematics in the Age of AI** (PDF)
   * *Autores:* Johan Commelin, Mateja Jamnik, Rodrigo Ochigame, Lenny Taelman, Akshay Venkatesh (Lorentz Center / Septiembre 2025).
   * *Resumen:* Documento de conclusiones sobre valores epistémicos, enseñanza, infraestructura abierta comunitaria y principios éticos para guiar la interacción entre matemáticos y desarrolladores de IA.
+
+### Saturación, "AI Slop" y Crisis del Peer Review
+
+* **[How AI slop is causing a crisis in computer science](https://www.nature.com/articles/d41586-025-03967-9)**
+  * *Fuente:* Nature (2025).
+  * *Resumen:* Análisis de cómo la generación automatizada de borradores y manuscritos ("AI slop") está saturando repositorios y journals, sobrecargando el trabajo no remunerado de revisión por pares. Examina la amenaza a la integridad del sistema de publicación científica y la dificultad de distinguir contribuciones genuinas de contenido generado automáticamente.
+
+* **[The Event Horizon of Knowledge: Why 3 Million ArXiv Papers Are a Warning Signal](https://lightcapai.medium.com/the-event-horizon-of-knowledge-why-3-million-arxiv-papers-are-a-warning-signal-)**
+  * *Autor:* LightCap AI (Medium, 2025).
+  * *Resumen:* Advertencia sobre el crecimiento exponencial de manuscritos en arXiv y su correlación con la proliferación de contenido generado por IA. Propone que sin intervención, el repositorio podría perder utilidad como instrumento de comunicación científica. Analiza métricas de calidad y el riesgo del "event horizon" donde el volumen hace inmanejable la curación y búsqueda.
+
+* **[arXiv Takes the First Step to Combat "AI Slop" in Submissions](https://www.the-scientist.com/arxiv-takes-the-first-step-to-combat-ai-slop-in-submissions-74586)**
+  * *Fuente:* The Scientist (2025).
+  * *Resumen:* Cobertura de las medidas adopta por arXiv frente a la crisis de saturación: políticas más estrictas, reglas de aceptación revisadas y énfasis en la responsabilidad de los autores. Documenta los primeros pasos organizacionales para preservar la calidad y confiabilidad de los repositorios académicos abiertos.
 
 ---
 
@@ -97,4 +119,3 @@ Este documento reúne una selección curada de declaraciones institucionales, en
 * **LLMs.pdf**
   * *Autor:* Gerardo Mauricio Toledo Acosta (Departamento de Matemáticas, Universidad de Sonora, AI-LinkUp 2025).
   * *Resumen:* Presentación previa ("La Ilusión de la Inteligencia") en el AI-LinkUp 2025 desmitificando como funcionan los LLMs y analizando los riesgos cognitivas y sesgos.
-
