@@ -54,7 +54,7 @@ Este documento reúne una selección curada de declaraciones institucionales, en
   * *Autor:* Robert Wegner (Proofs and Prompts, 10 de septiembre de 2026).
   * *Resumen:* Análisis comparativo entre escenarios con *humano en el ciclo* (S1) y *superinteligencia autónoma* (S2), sugiriendo que la toma de decisiones e intuición mantendrán a los matemáticos en un rol central.
 
-* **[Mathematics in the age of AI](https://arxiv.org/abs/2608.16753v1)
+* **[Mathematics in the age of AI](https://arxiv.org/abs/2608.16753v1)**
   * *Autor*: Terrence Tao (Agosto, 2026)
   * *Resumen*: An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks.
 
@@ -117,5 +117,13 @@ Este documento reúne una selección curada de declaraciones institucionales, en
 ## 5. Materiales de la Presentación
 
 * **[Presentación](https://github.com/gmauricio-toledo/my-talks/blob/main/Math_AI_2026.pdf)**
-  * *Autor:* Gerardo Mauricio Toledo Acosta (Departamento de Matemáticas, Universidad de Sonora, AI-LinkUp 2025).
-  * *Resumen:* Presentación previa ("La Ilusión de la Inteligencia") en el AI-LinkUp 2025 desmitificando como funcionan los LLMs y analizando los riesgos cognitivas y sesgos.
+  * *Autor:* Gerardo Mauricio Toledo Acosta (Departamento de Matemáticas, Universidad de Sonora).
+  * *Resumen:* La presentación de hoy
+ 
+* **[Presentación: Música e IA](https://github.com/gmauricio-toledo/my-talks/blob/main/Música%20e%20IA.pdf)**
+  * *Autor:* Gerardo Mauricio Toledo Acosta (Departamento de Matemáticas, Universidad de Sonora).
+  * *Resumen:* Presentación "Música e IA: ¿Creatividad o Ilusión?") en el Departamento de Bellas de la Universidad de Sonora.
+
+* **[Presentación: La ilusión de la inteligencia](https://github.com/gmauricio-toledo/my-talks/blob/main/LLMs.pdf)**
+  * *Autor:* Gerardo Mauricio Toledo Acosta (Departamento de Matemáticas, Universidad de Sonora).
+  * *Resumen:* Presentación "LLMs: La Ilusión de la Inteligencia" en el AI-LinkUp 2025 desmitificando como funcionan los LLMs y analizando los riesgos cognitivas y sesgos.
